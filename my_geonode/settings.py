@@ -121,6 +121,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.messages',
     'django.contrib.humanize',
+    'django.contrib.comments',
 
     # Third party apps
 
@@ -159,6 +160,12 @@ INSTALLED_APPS = (
     'geonode.search',
     'geonode.catalogue',
     'geonode.documents',
+
+    # My GeoNode apps
+    'polls',
+    'tagging',
+    'mptt',
+    'zinnia',
 )
 
 LOGGING = {
