@@ -1,0 +1,1027 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 1,
+        "NAME": "Matelot Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1255844444933,
+          10.815500546456478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 2,
+        "NAME": "Blanchisseuse Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.31388792534076,
+          10.795068615755536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 3,
+        "NAME": "Maracas Bay Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.444219823251935,
+          10.755439577169147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 4,
+        "NAME": "Sangre Grande Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.12504093602463,
+          10.584565139932614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 5,
+        "NAME": "Matura Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06688136341437,
+          10.677126205971243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 6,
+        "NAME": "Maraval Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.511338579928484,
+          10.708537679621749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 7,
+        "NAME": "West End Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.56138270575468,
+          10.717719251963766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 8,
+        "NAME": "Maracas St.Joseph Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.41491302797052,
+          10.708918982818904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 9,
+        "NAME": "Tunapuna Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.38995356954909,
+          10.645054896124215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 10,
+        "NAME": "Santa Cruz Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4688834249775,
+          10.715706311021775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 11,
+        "NAME": "Arima Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.28124338715034,
+          10.641945284167427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 12,
+        "NAME": "Arouca Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.34014989538039,
+          10.633230970571349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 13,
+        "NAME": "Four Roads Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.55274598491359,
+          10.686603465138148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 14,
+        "NAME": "Belmont Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.509060214687075,
+          10.670543939096627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 15,
+        "NAME": "Morvant/Divisional Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.47751581145417,
+          10.66196553979806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 16,
+        "NAME": "St. James Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.535451793405045,
+          10.671926507422244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 17,
+        "NAME": "St. Joseph Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.41333573586929,
+          10.651185250014848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 18,
+        "NAME": "San Juan Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.44845180435162,
+          10.653709533300308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 19,
+        "NAME": "Central Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.519300016631725,
+          10.6556233450698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 21,
+        "NAME": "Malabar Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.279164173447484,
+          10.622058481936724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 22,
+        "NAME": "Chaguanas Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.41425188959482,
+          10.517060058676044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 23,
+        "NAME": "Piarco Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.347166124386675,
+          10.591190004738335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 24,
+        "NAME": "Cunupia Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.374109324335244,
+          10.549344247851852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 25,
+        "NAME": "La Horquetta/ Divisional Headqua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.27723327120968,
+          10.596817094055371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 26,
+        "NAME": "Cumuto Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.216199786265385,
+          10.593072486647792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 27,
+        "NAME": "San Rafael Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.27392269516057,
+          10.576576581665359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 28,
+        "NAME": "Manzanilla Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07432108758775,
+          10.530295905114915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 29,
+        "NAME": "Freeport Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.41304417869804,
+          10.4602532487242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 30,
+        "NAME": "Biche Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.13236270859919,
+          10.431807299043154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 31,
+        "NAME": "Couva Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45870478469103,
+          10.418865581965827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 32,
+        "NAME": "Rio Claro Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.175515606643366,
+          10.3051321117629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 33,
+        "NAME": "Gran Couva Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37345309986011,
+          10.404668710029814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 34,
+        "NAME": "Mayaro Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.00564740049238,
+          10.295262655472927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 35,
+        "NAME": "Gasparillo Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.42661716422929,
+          10.317433122037706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 36,
+        "NAME": "St. Margaret Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45684888111489,
+          10.341422182667174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 37,
+        "NAME": "Marabella Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.449130356015694,
+          10.301088995745305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 38,
+        "NAME": "Tableland Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.269681812933804,
+          10.279550633534283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 39,
+        "NAME": "Princes Town Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.375929677624754,
+          10.272510403015147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 40,
+        "NAME": "Ste. Madeleine Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.43135869280468,
+          10.271575045427182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 41,
+        "NAME": "Mon Repos Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.44944679072906,
+          10.279752899416733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 43,
+        "NAME": "Barrackpore Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.39510607009962,
+          10.207689154337523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 44,
+        "NAME": "Oropouche Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.53305346254551,
+          10.225276941915686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 45,
+        "NAME": "Moruga Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.282084537149025,
+          10.089244210934618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 46,
+        "NAME": "Guapo Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.63799707052095,
+          10.19390314601422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 47,
+        "NAME": "Penal Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4586199390748,
+          10.168304479068784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 48,
+        "NAME": "Fyzabad Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.546658389503364,
+          10.176957567394984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 50,
+        "NAME": "Santa Flora Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.558967395801965,
+          10.11321147756698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 51,
+        "NAME": "Cedros Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.86644523085706,
+          10.090502949325025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 52,
+        "NAME": "Point Fortin Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.68515004866337,
+          10.179526872764223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 53,
+        "NAME": "La Brea Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.62385621104356,
+          10.24602450989189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 54,
+        "NAME": "Erin Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.65683566932035,
+          10.073512709280383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 55,
+        "NAME": "Carenage Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.59174613188344,
+          10.686630269139396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 56,
+        "NAME": "St.Clair Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.520965540524344,
+          10.674501834712183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 57,
+        "NAME": "Caroni Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.388500608885984,
+          10.606330757363724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 58,
+        "NAME": "Maloney Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.317609173862415,
+          10.61606934553127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 59,
+        "NAME": "Toco Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9434124827129,
+          10.83270769400912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 60,
+        "NAME": "Brasso Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.323148240560485,
+          10.417964915734965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 61,
+        "NAME": "St. Barbs Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.48993256431488,
+          10.660306516930994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 62,
+        "NAME": "Divisional Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.52319438596512,
+          10.672469440528475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 63,
+        "NAME": "Woodbrook Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5208294346894,
+          10.661968390967917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 64,
+        "NAME": "Midtown Patrol Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.50441644239031,
+          10.651180918962025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 65,
+        "NAME": "Patna Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.55970885632433,
+          10.73226207956257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 66,
+        "NAME": "Cap - De - Ville Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.70233990140935,
+          10.143307369470932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 67,
+        "NAME": "Southern Divisional Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.466051631362944,
+          10.279393409244967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 68,
+        "NAME": "St.Mary's Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.311398478574105,
+          10.204765676265916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 69,
+        "NAME": "Longdenville Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37881039309987,
+          10.514715367813965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 70,
+        "NAME": "Debe/Penal Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.447526895364994,
+          10.206179810580446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 49,
+        "NAME": "Siparia Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.50563170854361,
+          10.144266040370894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 71,
+        "NAME": "South Western Divisional Headqua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.50476649758854,
+          10.144352295885144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 72,
+        "NAME": "Valencia Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.20326893989861,
+          10.651584416860914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 73,
+        "NAME": "San Juan Sub-Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.450700497421,
+          10.649703244801461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 74,
+        "NAME": "Barataria/El Socorro Police Stat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45891264397972,
+          10.637886126184304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POLOCATE_": 75,
+        "NAME": "Pinto Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.262905212392155,
+          10.619234861039137
+        ]
+      }
+    }
+  ]
+}
